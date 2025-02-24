@@ -11,7 +11,7 @@
 
 [**Module 1: Introduction to the Internet, Git, and Basic Development Tools**](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-intro)
 
-- **Part 1: Web Fundamentals**
+- [**Part 1: Web Fundamentals**](https://app.milanote.com/1TAgxz12OeTlcR?p=KehowBo0Zh0)
     - Understanding how the internet works
     - What is HTTP, HTTPS, and how browsers interact with servers
     - Introduction to IP addresses, DNS, and servers
