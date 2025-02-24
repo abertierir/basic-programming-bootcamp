@@ -11,8 +11,15 @@
 
 [**Module 1: Introduction to LLMs and RAG**](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-intro)
 
-- Basics of LLMs and Retrieval-Augmented Generation (RAG)
-- OpenAI API and text search with Elasticsearch
+- **Part 1: Web Fundamentals**
+    - Understanding how the internet works
+    - What is HTTP, HTTPS, and how browsers interact with servers
+    - Introduction to IP addresses, DNS, and servers
+- **Part 2: Git and Version Control**
+    - Introduction to Git: What it is and why we use it
+    - How to download a repository, make commits, and push changes
+    - Introduction to GitHub and basic commands: `git init`, `git clone`, `git add`, `git commit`, `git push`
+- **Project**: Set up a GitHub repository for the bootcamp and begin working on personal CV projects.
 
 [**Module 2: Open-Source LLMs**](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/02-open-source)
 
