@@ -18,7 +18,7 @@
 - **Part 2: Git and Version Control**
     - Introduction to Git: What it is and why we use it
     - How to download a repository, make commits, and push changes
-    - Introduction to GitHub and basic commands: `git init`, `git clone`, `git checkout -b`,`git add`, `git commit`, `git push`
+    - Introduction to GitHub and basic commands: `git init`, `git clone`, `git checkout -b`, `git status`,`git add`, `git commit`, `git push`
 - **Project**: Set up a GitHub repository for the bootcamp and begin working on personal CV projects.
 - **Important Links**
     - [How the web works](https://academind.com/tutorials/how-the-web-works)
