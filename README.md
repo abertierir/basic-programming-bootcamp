@@ -20,8 +20,12 @@
     - How to download a repository, make commits, and push changes
     - Introduction to GitHub and basic commands: `git init`, `git clone`, `git checkout -b`, `git status`,`git add`, `git commit`, `git push`
 - **Project**: Set up a GitHub repository for the bootcamp and begin working on personal CV projects.
+- **Part 2: Basic Python Programming**
+    - Introduction to Python: Syntax, variables, data types (strings, numbers, booleans)
+    - Writing simple Python scripts
 - **Important Links**
     - [How the web works](https://academind.com/tutorials/how-the-web-works)
+    - [Codedex](https://www.codedex.io/python)
 
 [**Module 2: Introduction to IDEs and Basic HTML**](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/02-open-source)
 
