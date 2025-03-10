@@ -20,7 +20,7 @@
     - How to download a repository, make commits, and push changes
     - Introduction to GitHub and basic commands: `git init`, `git clone`, `git checkout -b`, `git status`,`git add`, `git commit`, `git push`
 - **Project**: Set up a GitHub repository for the bootcamp and begin working on personal CV projects.
-- **Part 2: Basic Python Programming**
+- **Part 3: Basic Python Programming**
     - Introduction to Python: Syntax, variables, data types (strings, numbers, booleans)
     - Writing simple Python scripts
 - **Important Links**
