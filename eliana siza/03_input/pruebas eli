@@ -1,0 +1,11 @@
+#calculadora 
+
+
+a=input("ingresa numero 1:")
+b=input("ingresa numero 2:")
+opcion=input("Qué quieres hacer, ingresa la opción:")
+if(opcion =="1"):
+    print("elegiste multiplicar")
+    c=int(a) * int(b)
+    print("tu resultado es:",c)
+
